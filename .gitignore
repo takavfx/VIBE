@@ -5,3 +5,7 @@ vibe-env/
 output/
 *.mp4
 results
+.venv/
+.vscode/
+.ipynb_checkpoints/
+blenderpy/
